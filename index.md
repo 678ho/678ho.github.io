@@ -1,29 +1,33 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: 자 기 소 개 서
+subtitle: 자 기 소 개 서
 cover-img: /assets/img/kwangho.jpg
 ---
 
 <br/>
 
-## About me
-
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
-
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
-
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
-
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
-
-## Contact
+## 성장과정 
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+프로그래밍에 대해 처음 접하게 된 것은 고등학교 때입니다. 학교에서 직업의 다양성에 대해 강의를 듣던 중 평소 컴퓨터에 관심이 많았던 저에게 프로그래머라는 직업을 알게 되었고 스스로 프로그램을 만들고 서비스할 수 있는 것에 대해 매력을 느끼게 되어 대학 전공을 소프트웨어공학을 선택하게 되었습니다. 대학교 입학하고 프로그램개발 공부하면서 꼼꼼한 성격으로 바뀌게 되었습니다. 꼼꼼하게 바뀌게 된 이유로는 평소 고등학교 때 시험공부를 했던 것처럼 쫓기듯 급하게 시험공부를 하고 시험 잘 칠 수 있을 거란 안일한 생각을 했지만, 시험지를 받고 난 후 봤던 것 같지만 정확하게 기억나지 않아 당황하고 결과적으로 좋은 성적을 받지 못했습니다. 1학기 동안 반복하고 전체 성적표를 확인하고 이전부터 생각했던 덤벙거리고 급하게 일하려는 단점을 고치기로 다짐하고 겨울 방학 동안 일과표를 만들고 일과표에 적힌 대로 체계적으로 지내는 연습부터 시작해서 미리미리 준비하고 시간 확인 등 꼼꼼한 성격으로 바뀌게 되었습니다. 지금까지 계속 일정표를 만들고 지키려고 노력하고 있습니다. 이런 노력을 통해 전공 성적을 잘 받게 되었고 성취감을 느끼게 되었습니다.
+```
+
+## 학교생활
+
+```
+4학년 때 졸업작품으로 학과 친구와 함께 2인 팀으로 쇼핑몰 홈페이지를 만든 경험이 있습니다. 졸업작품 주제를 쇼핑몰 홈페이지 구현이라는 평범한 주제를 선택한 이유로는 웹프로그래밍 수업에서 재밌었던 점과 좋은 성적을 받아 자신감이 있었기 때문에 평범하지만 가장 잘 할 수 있는 것을 선택하게 되었습니다. 저는 데이터베이스(MariaDB), Node.JS를 활용한 홈페이지 기능(CRUD 및 결제 시스템), Python을 이용한 정보 크롤링을 맡아 작업을 진행했습니다. 처음 주제를 정하고 막상 개발을 시작하려고 하니 전역 후 오랜만의 개발이기도 해서 감이 잡히지 않아 웹프로그래밍 수업 때 사용했던 자료와 웹 페이지 구현 프로세스 등을 검색해서 참고해서 작업을 시작하게 되었습니다. 기본적인 쇼핑몰의 기능을 구현하고 Python을 활용한 정보 크롤링 기능을 구현하던 중에 문제가 생기게 되었습니다. 검색하려는 객체의 이미지 파일을 크롤링하려고 했지만, 각각의 페이지의 DOM을 완벽하게 분석하지 못한 상태에서 작업을 하려 시도했었고 이는 실패로 이어지게 되었습니다. 이에 저는 DOM 분석에 문제가 있음을 인지하고 변경 작업을 했습니다. 변경 작업으로는 사이트에 직접적으로 이미지가 올라오는 게 아닌 섬네일 이미지가 또 다른 직접적인 링크로 이어지게 되는 것을 파악했고 섬네일 링크를 크롤링하고 크롤링한 주소에서 이미지 다운로드를 하고 크롤링한 전체적인 정보를 데이터베이스에 저장하고 웹 페이지에 뿌려주는 작업으로 제가 맡은 부분을 완성하게 되었습니다. 같이한 친구는 HTML을 통해 전체적인 홈페이지의 구조를 만들고 CSS 작업을 통해 디자인작업을 했습니다. Node.js와 HTML을 활용해 사이트의 골격을 만드는 작업과 CSS를 통해 디자인하고 어떻게 적용되고 보이는지 확인 작업을 한 후에 어떤 버튼에는 어떤 기능이 적용되어야 하는지 회의를 한 후에 제가 해당 버튼에 대한 기능을 작성하고 작동이 되는지 테스트하는 식으로 함께 졸업작품을 만들었습니다. 같이 작업하게 된 학과 동기와의 작업 마무리를 통해 성공적으로 졸업작품을 제출하게 되었으며 우수한 평가를 받고 졸업하게 되었습니다.
+```
+
+## 성격의 장점/ 단점
+
+```
+성격의 장점은 꼼꼼하고 정직하다는 것이고, 단점으로는 답답한 것을 못 참는 것입니다. 꼼꼼한 성격 덕분에 프로그램 작성하는 동안 놓친 부분, 로직 에러를 되돌아볼 수 있었습니다. MFC 윈도우 프로그램 과제를 하던 중 객체의 충돌판정 로직을 작성하고 테스트하기 전에 수행 시간에 대해 고민하고 있었습니다. 감으로 작성한 대로 테스트하게 된다면 수행 시간이 길어질 것 같은 생각이 들어 충돌을 판정하는 조건문을 다시 살펴보고 초깃값과 비교를 하지 않았던 실수를 발견하고 수정하여 과제의 전체적 수행 시간을 줄였던 경험이 있습니다. 전공이나 교양 수업에서 주어진 과제를 수행하면서 힘들더라도 인터넷에 있는 자료를 그대로 베껴 사용하지 않았고 정직하게 수업 시간에 배운 지식과 부족한 부분 정도를 검색하여 참고하여 과제를 작성해서 제출했으며 이런 정직한 성격 덕분에 직접 작성하지 않은 자료를 보면서 필요한 부분을 찾고 적용시켜야 할지 알게 된 성격 덕분에 좋은 경험을 한 것 같습니다.
+단점으로는 답답한 것을 못 참는 것인데 군에서 생활하는 동안 상대방이 생각하는 것과 제가 생각하는 것의 차이점에서 답답함을 느끼는 것을 생각하고 조금 더 상대방 상황에서 생각해보려고 노력하거나 상대방이 왜 이렇게 생각하는지 묻게 되었습니다. 이런 노력을 통해 필요하지 않은 갈등을 줄이게 되었고 좀 더 효율적으로 협업할 수 있게 되었습니다.
+```
+
+## 지원동기 및 입사 후 포부
+
+```
+웹프로그래밍의 매력으로는 프로젝트가 어떻게 진행되는지 라이브로 확인하면서 작업할 수 있는 점과 개인적으로 웹 개발하면서 간단하지만 유용한 기능들을 개발해서 사용할 수 있는 접근성이 좋아서 선택하게 되었습니다. 웹프로그래밍 분야에서 자바스크립트, HTML, CSS 등 여러 개발언어를 공부해서 실제 개발에 사용할 수 있도록 노력할 것입니다. 특히 자바스크립트와 CSS에서 편의성 관련해서 지속적인 업데이트가 이뤄지고 있는데 이런 기술들을 팔로우업해서 개발 편의성을 늘려 효율성을 높여 개발 속도와 가독성을 높일 수 있을 것으로 생각합니다. 협업 또한 중요하다고 생각합니다. 업무 협업에 관련된 책, 선배님들의 조언, 경험담 등의 간접경험을 통해 비결을 얻고 이것을 토대로 잘 협업할 수 있도록 노력할 것입니다. 최근 들어 개발할 때 협업이 중요하다고 생각하게 되었는데 협업 경험이 많이 없다 보니 최근에 `오늘도 개발자가 안 된다고 말했다`라는 책을 구매하여 읽으며 개발자와 기획자 사이의 견해 차이와 협업할 때 지향해야 할 기본자세 등을 배우고 있으며 개발자 협업 도구인 Git 사용법을 공부해서 웹 개발 공부 중에 활용하고 있으며 이를 통해 실무에서 최대한 빠른 적응을 위해 노력하고 있습니다.
 ```
