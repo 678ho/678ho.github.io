@@ -2,7 +2,7 @@
 layout: page
 title: 자 기 소 개 서
 subtitle: 자 기 소 개 서
-cover-img: /assets/img/kwangho.jpg
+cover-img: /assets/img/cat-taesik-wide.jpg
 ---
 
 <br/>
